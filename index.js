@@ -3,4 +3,6 @@ var nationality = "Pakistani";
 var feepaid = true;
 var height = 5.7;
 
-alert(age);
+alert(typeof age);
+alert(typeof nationality);
+alert(typeof feepaid);
